@@ -8,7 +8,7 @@
 
 ## About Me
 * Hey, I'm **Sukh**. I am currently working as a **Cloud Software Developer Intern** in 🍁**Canada**🍁.  
-* I will be completing my **Computer Science** degree at the **University of Calgary** in **Dec 2021**.  
+* I will be completing my **Computer Science** degree at the **University of Calgary** in **Aug 2021**.  
 * I am *passionate* about developing *high-quality software* that solves interesting problems.  
 * I *thrive* when taking on big challenges alongside *smart*, *ambitious*, and *creative* people.
 
