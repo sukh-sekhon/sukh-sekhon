@@ -21,5 +21,5 @@
 
 ## Statistics
 <p align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sukhjot-sekhon&show_icons=true&theme=tokyonight"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sukh-sekhon&show_icons=true&theme=tokyonight"></a>
 </p>
