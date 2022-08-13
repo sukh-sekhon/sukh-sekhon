@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Connect-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sukh-sekhon/)  
 
-[![GMail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukhjot700@gmail.com)  
+[![GMail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukh.codes@gmail.com)  
 
 [![GitHub](https://img.shields.io/badge/Follow-black.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sukh-sekhon)   
 
