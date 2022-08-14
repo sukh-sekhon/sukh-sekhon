@@ -7,7 +7,8 @@
 [![GitHub](https://img.shields.io/badge/Follow-black.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sukh-sekhon)   
 
 ## About Me
-* Hey, I'm **Sukh**. I am a Software Developer from 🍁**Canada**🍁.  
+* Hey, I'm **Sukh**. I am a Software Developer from 🍁**Canada**🍁.
+* Some of my current areas of interest include **backend development**, **cloud technologies**, automation, security, and information visualization.
 
 ## Statistics
 <p align='left'>
