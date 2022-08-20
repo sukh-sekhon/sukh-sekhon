@@ -1,10 +1,10 @@
 <img align="left" style="margin-right: 25px;" height="135px" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
 
-[![LinkedIn](https://img.shields.io/badge/-Connect-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sukh-sekhon/)  
+[![Personal Site](https://img.shields.io/badge/-Personal%20Site-black?style=for-the-badge&logo=Safari&logoColor=white)](https://sukh.codes/)
 
-[![GMail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukh.codes@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-Connect-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sukh-sekhon/)
 
-[![GitHub](https://img.shields.io/badge/Follow-black.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sukh-sekhon)   
+[![GMail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukh.codes@gmail.com)
 
 ## About Me
 * Hey, I'm **Sukh**. I am a Software Developer from Canada! 🍁
