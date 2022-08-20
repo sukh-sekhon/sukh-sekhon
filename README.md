@@ -8,8 +8,7 @@
 [![GMail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukh.codes@gmail.com)
 
 ## About Me
-* Hey, I'm **Sukh**. I am a Software Developer from Canada! 🍁
-* Some of my current areas of interest include **backend development**, **cloud technologies**, automation, security, and information visualization.
+Hey, I am **Sukh**, a **Software Developer** from Canada! I am passionate about **backend technologies**, **data**, and the **cloud**. I love **building** things, **exploring** and **learning** new technologies, and **solving** problems.
 
 ## Statistics
 <p align='left'>
