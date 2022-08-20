@@ -1,4 +1,5 @@
-<img align="left" style="margin-right: 25px;" height="135px" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">
+[<img align="left" style="margin-right: 25px;" height="135px" src="https://user-images.githubusercontent.com/50682117/111104991-83fbee80-8517-11eb-8948-cffde8b5c689.png">](https://sukh.codes/)
+
 
 [![Personal Site](https://img.shields.io/badge/-Personal%20Site-black?style=for-the-badge&logo=Safari&logoColor=white)](https://sukh.codes/)
 
